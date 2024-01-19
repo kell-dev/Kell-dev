@@ -13,7 +13,7 @@
 
 <p align="left">✨ Criando bugs desde 1993 <br>📚 Atualmente estou aprendendo JavaScript ...<br>🎯 Metas:Front-End <br></p>
 
-###
+
 
 <h2 align="left">Eu Codifico Com</h2>
 
@@ -22,6 +22,12 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img 
+  
+
+
+###
+ 
+  ![200w-_1_](https://github.com/kell-dev/Kell-dev/assets/156711262/72ec9c02-ad79-484b-909c-f7513336188a)
+
 
   
