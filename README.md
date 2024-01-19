@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 1993 <br>📚 Atualmente estou aprendendo JavaScript ...<br>🎯 Metas:Front-End <br></p>
+<p align="left">✨ Criando bugs desde 2024 <br>📚 Atualmente estou aprendendo JavaScript ...<br>🎯 Metas:Front-End <br></p>
 
 
 
